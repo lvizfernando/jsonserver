@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Alda Hideko",
     "specialty": "Pediatra",
-    "imageId": R.drawable.pediatra
+    "imageId": "R.drawable.pediatra"
   },
   {
     "id": 2,
