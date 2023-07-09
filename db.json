@@ -3,24 +3,24 @@
     "id": 1,
     "name": "Alda Hideko",
     "specialty": "Pediatra",
-    "imageId": "R.drawable.pediatra"
+    "imageId": "pediatra"
   },
   {
     "id": 2,
     "name": "Felipe Araújo",
     "specialty": "Oftalmologista",
-    "imageId": R.drawable.oftalmo
+    "imageId": "oftalmo"
   },
   {
     "id": 3,
     "name": "Pedro Santana",
     "specialty": "Otorrinolaringologista",
-    "imageId": R.drawable.rino
+    "imageId": "rino"
   },
   {
     "id": 4,
     "name": "Amanda Silva",
     "specialty": "Cardiologista",
-    "imageId": R.drawable.cardio
+    "imageId": "cardio"
   }
 ]
