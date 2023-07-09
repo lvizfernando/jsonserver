@@ -4,25 +4,25 @@
       "id": 1,
       "name": "Alda Hideko",
       "speciality": "Pediatra",
-      "ImageId": "R.drawable.pediatra"
+      "ImageId": "pediatra.png"
     },
     {
       "id": 2,
       "name": "Felipe Araújo",
       "speciality": "Oftalmologista",
-      "ImageId": "R.drawable.oftalmo"
+      "ImageId": "oftalmo.png"
     },
     {
       "id": 3,
       "name": "Pedro Santana",
       "speciality": "Otorrinolaringologista",
-      "ImageId": "R.drawable.rino"
+      "ImageId": "rino.png"
     },
     {
       "id": 4,
       "name": "Amanda Silva",
       "speciality": "Cardiologista",
-      "ImageId": "R.drawable.cardio"
+      "ImageId": "cardio.png"
     }
   ]
 }
