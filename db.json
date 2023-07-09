@@ -1,26 +1,26 @@
-{
-      "id": 1,
-      "name": "Alda Hideko",
-      "speciality": "Pediatra",
-      "ImageId": "R.drawable.pediatra"
-    },
-    {
-      "id": 2,
-      "name": "Felipe Araújo",
-      "speciality": "Oftalmologista",
-      "ImageId": "R.drawable.oftalmo"
-    },
-    {
-      "id": 3,
-      "name": "Pedro Santana",
-      "speciality": "Otorrinolaringologista",
-      "ImageId": "R.drawable.rino"
-    },
-    {
-      "id": 4,
-      "name": "Amanda Silva",
-      "speciality": "Cardiologista",
-      "ImageId": "R.drawable.cardio"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Alda Hideko",
+    "specialty": "Pediatra",
+    "imageId": R.drawable.pediatra
+  },
+  {
+    "id": 2,
+    "name": "Felipe Araújo",
+    "specialty": "Oftalmologista",
+    "imageId": R.drawable.oftalmo
+  },
+  {
+    "id": 3,
+    "name": "Pedro Santana",
+    "specialty": "Otorrinolaringologista",
+    "imageId": R.drawable.rino
+  },
+  {
+    "id": 4,
+    "name": "Amanda Silva",
+    "specialty": "Cardiologista",
+    "imageId": R.drawable.cardio
+  }
+]
