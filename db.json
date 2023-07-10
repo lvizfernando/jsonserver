@@ -1,6 +1,6 @@
 {
   "profissionais": [
-    { "id": 1, "name": "Alda Hideko", "speciality": "Pediatra", "imageId": R.drawable.pediatra },
+    { "id": 1, "name": "Alda Hideko", "speciality": "Pediatra", "imageId": "pediatra" },
     { "id": 2, "name": "Felipe Araújo", "speciality": "Oftalmologista", "imageId": "oftalmo" },
     { "id": 3, "name": "Pedro Santana", "speciality": "Otorrinolaringologista", "imageId": "rino" },
     { "id": 4, "name": "Amanda Silva", "speciality": "Cardiologista", "imageId": "cardio" }
